@@ -37,7 +37,7 @@
             "models/理想以太网.link.m"
         ],
         "traffics": [
-            "models/泊松流.trf.m"
+            "models/泊松流.traf.m"
         ]
     }
 }
