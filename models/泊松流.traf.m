@@ -1,0 +1,1 @@
+{"name":"泊松流","intervalDistribution":{"dist":"poisson","options":{"lambda":"1"}},"sizeDistribution":{"dist":"uniform","options":{"min":"1000","max":"1200"}}}

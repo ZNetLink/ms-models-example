@@ -1,0 +1,43 @@
+{
+    "name": "ms-model-example",
+    "repo_url": "https://github.com/znetlink/ms-models-example",
+    "version": "0.1.0",
+    "description": "妙算模型示例",
+    "author": "ZNetLink",
+    "email": "jiazequn@znetlink.com",
+    "license": "MIT",
+    "labels": [
+        "awesome",
+        "model"
+    ],
+    "content": {
+        "iconLibraries": [
+            {
+                "name": "战术互联网",
+                "id": "ti",
+                "path": "icons/ti"
+            }
+        ],
+        "scenarios": [
+            "models/合成旅小场景.scen.m"
+        ],
+        "platforms": [
+            "models/合成旅指挥车.plt.m"
+        ],
+        "devices": [
+            "models/超短波电台.dev.m"
+        ],
+        "processes": [
+            {
+                "model": "models/ipv4.pr.m",
+                "pyPkgPath": "pycodes/ipv4"
+            }
+        ],
+        "links": [
+            "models/理想以太网.link.m"
+        ],
+        "traffics": [
+            "models/泊松流.trf.m"
+        ]
+    }
+}

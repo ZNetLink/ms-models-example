@@ -1,0 +1,1 @@
+{"ber":0,"delay":0,"type":"以太网","autoDelay":false,"dataRate":10000000000,"usage":0}
